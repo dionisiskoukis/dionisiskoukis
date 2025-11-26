@@ -1,16 +1,26 @@
-## Hi there 👋
+💫 About Me:
+Im a teen dev that aims to create massive projects
+i enjoy programming and finance
+Has a python certificate from SkillUp
+Participated in the 2026 CTF Championship i Greece
 
-<!--
-**dionisiskoukis/dionisiskoukis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+JavaScript Python Windows Terminal Canva NumPy MongoDB NPM NodeJS HTML5 CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
+
