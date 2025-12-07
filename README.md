@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a teen dev that aims to create massive projects<br>i enjoy programming and finance<br>Has a python certificate from SkillUp<br>Participated in the 2026 CTF Championship i Greece
+Has a python certificate from SkillUp<br>Participated in the 2026 CTF Championship in Greece
 
 
 ## 🌐 Socials:
